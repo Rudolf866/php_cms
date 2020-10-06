@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="990a7372-c807-4c1b-a932-e91ac7d47fe4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectId" id="1iT72X8paBrY5dW0UYta11LP2Ww" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../php73/php.exe" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="990a7372-c807-4c1b-a932-e91ac7d47fe4" name="Default Changelist" comment="" />
+      <created>1601919574214</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601919574214</updated>
+      <workItem from="1601919586701" duration="4311000" />
+      <workItem from="1602001134679" duration="4862000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="380" y="85" key="#CLI_Interpreters" timestamp="1602007827361">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="380" y="85" key="#CLI_Interpreters/0.0.1600.860@0.0.1600.860" timestamp="1602007827361" />
+    <state x="507" y="73" key="#PHP" timestamp="1602007832766">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="507" y="73" key="#PHP/0.0.1600.860@0.0.1600.860" timestamp="1602007832766" />
+    <state x="580" y="185" key="FileChooserDialogImpl" timestamp="1602007821232">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="580" y="185" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1602007821232" />
+    <state x="549" y="153" key="NewPhpClassDialog" timestamp="1601921729534">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="549" y="153" key="NewPhpClassDialog/0.0.1600.860@0.0.1600.860" timestamp="1601921729534" />
+    <state x="634" y="353" key="NewPhpFileDialog" timestamp="1601920150941">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="634" y="353" key="NewPhpFileDialog/0.0.1600.860@0.0.1600.860" timestamp="1601920150941" />
+    <state x="228" y="41" key="SettingsEditor" timestamp="1602008056573">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="228" y="41" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1602008056573" />
+    <state x="463" y="180" width="672" height="678" key="search.everywhere.popup" timestamp="1601922432699">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="463" y="180" width="672" height="678" key="search.everywhere.popup/0.0.1600.860@0.0.1600.860" timestamp="1601922432699" />
+  </component>
+</project>

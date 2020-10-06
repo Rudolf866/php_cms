@@ -1,0 +1,16 @@
+{
+    "name": "koval/cms.log",
+    "authors": [
+        {
+            "name": "Rudolf",
+            "email": "kovalevskiy2017@outlook.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Engine\\": "engine",
+            "Engine\\DI\\": "engine/DI/"
+        }
+    }
+}
