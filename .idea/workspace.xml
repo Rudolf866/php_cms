@@ -3,6 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="990a7372-c807-4c1b-a932-e91ac7d47fe4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/engine/Cms.php" beforeDir="false" afterPath="$PROJECT_DIR$/engine/Cms.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/engine/DI/DI.php" beforeDir="false" afterPath="$PROJECT_DIR$/engine/DI/DI.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/engine/bootstrap.php" beforeDir="false" afterPath="$PROJECT_DIR$/engine/bootstrap.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +47,7 @@
       <option name="presentableId" value="Default" />
       <updated>1601919574214</updated>
       <workItem from="1601919586701" duration="4311000" />
-      <workItem from="1602001134679" duration="5800000" />
+      <workItem from="1602001134679" duration="7439000" />
     </task>
     <task id="LOCAL-00001" summary="first commit CMS">
       <created>1602008312486</created>

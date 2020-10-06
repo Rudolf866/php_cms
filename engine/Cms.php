@@ -23,6 +23,7 @@ class Cms
      */
     public function run()
     {
-
+       $db = $this->di->get('test2');
+       print_r($db);
     }
 }
