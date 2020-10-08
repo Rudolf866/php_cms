@@ -9,9 +9,14 @@ try {
 
     $di = new DI();
 
-    $di->set('test',['db'=>'db_object']);
+   $services =  require __DIR__ .'/config/Sevice.php';
 
-    $di->set('test2',['mail'=>'mail_object']);
+    // init services
+   foreach($services as $service)
+   {
+       $provider = new $service($di);
+       $provider->init();
+   }
 
     $cms = new Cms($di);
     $cms->run();
