@@ -2,23 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="990a7372-c807-4c1b-a932-e91ac7d47fe4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/engine/Core/Database/Connection.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/engine/Service/AbstractProvider.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/engine/Service/Database/Provider.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/engine/config/Sevice.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/engine/config/config.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/engine/Core/Router/Router.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/engine/Service/Router/Provider.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/cms.log.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/cms.log.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/engine/Cms.php" beforeDir="false" afterPath="$PROJECT_DIR$/engine/Cms.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/engine/bootstrap.php" beforeDir="false" afterPath="$PROJECT_DIR$/engine/bootstrap.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/engine/config/Sevice.php" beforeDir="false" afterPath="$PROJECT_DIR$/engine/config/Sevice.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" doNotAsk="true">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
   </component>
@@ -62,6 +58,8 @@
       <workItem from="1602001134679" duration="7744000" />
       <workItem from="1602089941921" duration="5886000" />
       <workItem from="1602096840827" duration="267000" />
+      <workItem from="1602131396439" duration="785000" />
+      <workItem from="1602178005530" duration="3692000" />
     </task>
     <task id="LOCAL-00001" summary="first commit CMS">
       <created>1602008312486</created>
@@ -93,6 +91,14 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="605" y="112" key="#com.intellij.ide.util.MemberChooser/0.0.1600.860@0.0.1600.860" timestamp="1602094335387" />
+    <state x="489" y="6" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1602179417841">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="489" y="6" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1600.860@0.0.1600.860" timestamp="1602179417841" />
+    <state x="530" y="185" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1602179603787">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="530" y="185" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1600.860@0.0.1600.860" timestamp="1602179603787" />
     <state x="425" y="7" key="CommitChangelistDialog2" timestamp="1602008304576">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
@@ -101,10 +107,10 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="580" y="185" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1602008093655" />
-    <state x="549" y="153" key="NewPhpClassDialog" timestamp="1602094060735">
+    <state x="549" y="153" key="NewPhpClassDialog" timestamp="1602179514763">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="549" y="153" key="NewPhpClassDialog/0.0.1600.860@0.0.1600.860" timestamp="1602094060735" />
+    <state x="549" y="153" key="NewPhpClassDialog/0.0.1600.860@0.0.1600.860" timestamp="1602179514763" />
     <state x="634" y="353" key="NewPhpFileDialog" timestamp="1602094994403">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
