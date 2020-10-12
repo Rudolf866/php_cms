@@ -27,7 +27,7 @@ class Cms
     public function run()
     {
 
-      $this->router->add('home','/','HomeController:index');
+      //$this->router->add('home','/','HomeController:index');
       print_r($this->di);
        
     }
