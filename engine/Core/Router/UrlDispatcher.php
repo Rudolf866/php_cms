@@ -41,4 +41,24 @@ class UrlDispatcher
     {
         $this->patterns[$key] = $pattern;
     }
+
+    /**
+     * @param $method
+     * @return array
+     */
+    public function routes($method)
+    {
+        return isset($this->routes[$method]) ? $this->routes[$method] : [];
+
+    }
+
+    public function dispatch($method, $uri)
+    {
+        $routes = $this->routes(strtoupper($method));
+
+        if (array_key_exists($uri,$routes))
+        {
+            return new DispachedRoute($routes[]);
+        }
+    }
 }
