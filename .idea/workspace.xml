@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="990a7372-c807-4c1b-a932-e91ac7d47fe4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/engine/Core/Router/DispachedRoute.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/engine/Helper/Common.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/engine/Cms.php" beforeDir="false" afterPath="$PROJECT_DIR$/engine/Cms.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/engine/Core/Router/UrlDispatcher.php" beforeDir="false" afterPath="$PROJECT_DIR$/engine/Core/Router/UrlDispatcher.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,6 +44,11 @@
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Koval\OneDrive\Рабочий стол\Server\OpenServer\domains\cms.log" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -58,7 +64,8 @@
       <workItem from="1602131396439" duration="785000" />
       <workItem from="1602178005530" duration="4548000" />
       <workItem from="1602523430515" duration="3187000" />
-      <workItem from="1602609679621" duration="1862000" />
+      <workItem from="1602609679621" duration="2400000" />
+      <workItem from="1602695858650" duration="1131000" />
     </task>
     <task id="LOCAL-00001" summary="first commit CMS">
       <created>1602008312486</created>
@@ -106,10 +113,10 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="580" y="185" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1602008093655" />
-    <state x="549" y="153" key="NewPhpClassDialog" timestamp="1602610558531">
+    <state x="549" y="153" key="NewPhpClassDialog" timestamp="1602696889136">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="549" y="153" key="NewPhpClassDialog/0.0.1600.860@0.0.1600.860" timestamp="1602610558531" />
+    <state x="549" y="153" key="NewPhpClassDialog/0.0.1600.860@0.0.1600.860" timestamp="1602696889136" />
     <state x="634" y="353" key="NewPhpFileDialog" timestamp="1602610524180">
       <screen x="0" y="0" width="1600" height="860" />
     </state>

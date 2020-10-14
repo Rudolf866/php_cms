@@ -2,6 +2,8 @@
 
 namespace Engine;
 
+
+
 class Cms
 {
     /**
@@ -26,9 +28,12 @@ class Cms
      */
     public function run()
     {
+        //$this->router->add('home','/','HomeController:index');
 
-      //$this->router->add('home','/','HomeController:index');
-      print_r($this->di);
+         //$routerDispatch = $this->router->dispatch();
+         //print_r($this->di);
+        print_r($_SERVER);
+
        
     }
 }

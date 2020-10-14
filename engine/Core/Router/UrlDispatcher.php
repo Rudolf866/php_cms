@@ -46,7 +46,7 @@ class UrlDispatcher
      * @param $method
      * @return array
      */
-    public function routes($method)
+    private function routes($method)
     {
         return isset($this->routes[$method]) ? $this->routes[$method] : [];
 
@@ -59,6 +59,14 @@ class UrlDispatcher
         if (array_key_exists($uri,$routes))
         {
             return new DispachedRoute($routes[]);
+        }
+    }
+
+    private function doDispatch($method, $uri)
+    {
+        foreach($this->routes($method) as $route => $controller)
+        {
+            print $route;
         }
     }
 }
